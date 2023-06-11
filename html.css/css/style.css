@@ -1,0 +1,292 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.header h1 {
+    background-color: #ebf142;
+    width: 100%;
+    height: 40px;
+    position: relative;
+    top: 20px;
+    text-align: center;
+    padding: 10px 10px;
+}
+.menu {
+    position: relative;
+}
+
+.navbar {
+    position: absolute;
+    left: 20px;
+    top: 30px;
+    list-style-type: none;
+}
+/* a {
+    text-decoration: none; 
+    color: black;
+} */
+.meeting {
+    position: relative;
+}
+.ulmeeting {
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    list-style-type: none;
+    border-left: 6px solid #3C6255;
+}
+.newcar {
+    position: relative;
+    
+}
+.ulnewcar {
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    list-style-type: none;
+    border-left: 6px solid #3C6255;
+}
+.visitparents {
+    position: relative;
+}
+.ulvisitparents {
+    position: absolute;
+    top: 270px;
+    left: 200px;
+    list-style-type: none;
+    border-left: 6px solid #3C6255;
+}
+.lastpost {
+    position: relative;
+}
+.ullastpost{
+    position: absolute;
+    top: 100px;
+    right: 40px;
+    border: 5px dashed #3C6255;
+    border-radius: 5px;
+    padding: 10px 10px;
+    list-style-type: none;
+    text-align: center;
+}
+.contact {
+    position: relative;
+    top: 600px;
+    left: 500px;
+}
+.exercize2 {
+    position: relative;
+    top: 650px;
+}
+.homepage {
+    text-align: center;
+    position: relative;
+    top: 650px;
+
+}
+.navbarhomepage {
+    position: absolute;
+    top: 30px;
+    list-style-type: none;
+
+}
+.navbar1 {
+    position: absolute;
+    top: 10px;
+    left: 60px;
+    list-style-type: none;
+}
+.navbar2 {
+    position: absolute;
+    top: 10px;
+    left: 180px;
+    list-style-type: none;
+}
+.navbar3 {
+    position: absolute;
+    top: 10px;
+    left: 280px;
+    list-style-type: none;
+}
+.homepage1 {
+    position: relative;
+    top: 50px;
+    left: 350px;
+    width: 400px;
+    height: 350px;
+    border:5px solid #4eb0d4;
+}
+.news {
+    position: absolute;
+    top: 110px;
+    list-style-type: none;
+
+}
+.Announcements{
+    position: absolute;
+    top: 110px;
+    left: 200px;
+    list-style-type: none;
+    border-left: 6px solid #4eb0d4;
+
+}
+.personaldata {
+    position: relative;
+    top: 780px;
+    left: 150px;
+    width: 600px;
+    height: 800px;
+    border:5px solid black;
+    list-style-type: none;
+
+}
+.h1curriculum {
+    font-family: georgia;
+    color: blue;
+    font-size: 15px;
+    background-color: lightgrey;
+    text-align: center;
+}
+.h2personaldata {
+    position: relative;
+    left: 20px;
+    font-family: Georgia;
+    color: darkred;
+font-size: 18px, letter spacing
+1.4rem;
+
+}
+.name {
+    position: absolute;
+    left: 20px;
+    top: 100px;
+}
+.education {
+    position: relative;
+    left: 0px;
+    top: 80px;
+
+}
+.e1 {
+    font-family: Georgia;
+    color: darkred;
+font-size: 18px, letter spacing
+1.4rem;
+position: absolute;
+left: 20px;
+
+}
+.e2 {
+    position: absolute;
+left: 25px;
+top: 80px;
+color: black;
+}
+.e3 {
+    position: absolute;
+left: 25px;
+top: 190px;
+color: black;
+}
+.e4 {
+    position: absolute;
+left: 25px;
+top: 240px;
+color: black;
+}
+.education2 {
+    position: relative;
+    right:10px;
+    top: 10px;
+    
+}
+.ed1 {
+    position: absolute;
+    left: 250px;
+    top: 70px;
+}
+.ed2 {
+    position: absolute;
+    left: 250px;
+    top: 180px;
+}
+.ed3 {
+    position: absolute;
+    left: 250px;
+    top: 230px;
+}
+.perofessional {
+    position: relative;
+}
+
+.pro1 {
+    font-family: Georgia;
+    color: darkred;
+font-size: 18px, letter spacing
+1.4rem;
+position: absolute;
+left: 20px;
+top: 300px;
+}
+.pro2 {
+position: absolute;
+left: 25px;
+top: 370px;
+}
+.pro3 {
+position: absolute;
+left: 25px;
+top: 420px;
+}
+.pero1 {
+    position: absolute;
+    left: 250px;
+    top: 370px;
+}
+.pero2 {
+    position: absolute;
+    left: 250px;
+    top: 420px;
+}
+.exercize4 {
+    position: relative;
+    left: 150px;
+    top: 800px;
+    border: 2px solid black;
+    width: 380px;
+    height: 250px;
+}
+.curriculum {
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+.cv {
+    position: absolute;
+    left: 30px;
+    top: 100px;
+}
+.curriculum1 {
+    position: relative;
+    border: 2px solid black;
+    width: 100px;
+    height: 250px;
+    float: right;
+}
+.curriculum2 {
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+.curriculum3 {
+    position: absolute;
+    top: 90px;
+    left: 10px;
+}
+.curriculum4 {
+    position: absolute;
+    top: 150px;
+    left: 10px;
+}
